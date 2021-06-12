@@ -1,0 +1,1 @@
+# investingclub-analytics-api
